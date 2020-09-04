@@ -14,7 +14,7 @@ To attain the purpose of this porject, A run through with the dataset shows gree
 
 ## Results
 * Refactoring the code certainly reduced processing time as depicted in the below images showing run times for analysis. 
-* The main factor that helped in reducing processing time is, Instead of instructing the computer to process the entire table rows (3013) for each ticker again and again to populate its volumes and returns, the refactored code does the processing for each row against the ticker using arrays or lists, thus running through the entire sheet once.
+* The main factor that helped in reducing processing time is, Instead of instructing the computer to process the entire table rows (3013) for each ticker again and again to populate its volumes and returns, the refactored code does the processing for each row against the ticker using arrays or lists.
 
 ## Original Code
 
